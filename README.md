@@ -55,11 +55,9 @@
 
 Рекомендуется прочитать эти три статьи (на испанском языке), чтобы узнать обо всех функциях и характеристиках шаблона. Подробно описаны все добавленные функции:
 
-[Plantilla de Yandex.Metrica para GTM](https://www.antoniolite.com/2019/06/plantilla-de-yandex-metrica-para-gtm/)
-
-[Plantilla de Yandex.Metrica para GTM (09.2019)](https://www.antoniolite.com/2019/09/plantilla-de-yandex-metrica-para-gtm-09-2019/)
-
-[Plantilla de Yandex.Metrica para GTM (07.2020)](https://www.antoniolite.com/2020/07/plantilla-de-yandex-metrica-para-gtm-07-2020)
+- [Plantilla de Yandex.Metrica para GTM](https://www.antoniolite.com/2019/06/plantilla-de-yandex-metrica-para-gtm/)
+- [Plantilla de Yandex.Metrica para GTM (09.2019)](https://www.antoniolite.com/2019/09/plantilla-de-yandex-metrica-para-gtm-09-2019/)
+- [Plantilla de Yandex.Metrica para GTM (07.2020)](https://www.antoniolite.com/2020/07/plantilla-de-yandex-metrica-para-gtm-07-2020)
 
 ## Обновления
 
