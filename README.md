@@ -4,15 +4,20 @@
 
 **Также доступно на английском и испанском языках.**
 
+- https://github.com/antoniolite/gtm-plantilla-yandex-metrica
+- https://github.com/antoniolite/gtm-template-yandex-metrica
+
+## Полезные ссылки
+
 - [Список изменений и обновления](https://www.antoniolite.com/plantilla-de-yandex-metrica-para-gtm/)
 - [Подробнее о Яндекс.Метрике](https://metrica.yandex.com)
 - [Документация Яндекс.Метрики](https://yandex.com/support/metrica/index.html)
 
-# Автор
+## Автор
 
 Антонио Лите (https://www.antoniolite.com/)
 
-# Информация
+## Информация
 
 Этот шаблон позволяет настроить следующие методы:
 
@@ -56,8 +61,8 @@
 
 [Plantilla de Yandex.Metrica para GTM (07.2020)](https://www.antoniolite.com/2020/07/plantilla-de-yandex-metrica-para-gtm-07-2020)
 
-# Обновления
+## Обновления
 
-## 16.09.2020
+### 16.09.2020
 
 - Первый выпуск
