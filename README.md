@@ -1,20 +1,20 @@
 # Шаблон Яндекс.Метрики для GTM
 
-This custom template (non official) allows you implement **Yandex.Metrica** with Google Tag Manager.
+Этот специальный шаблон (неофициальный) позволяет реализовать ** Яндекс.Метрику ** с помощью Google Tag Manager.
 
-**Also available in English and Spanish language.**
+** Также доступно на английском и испанском языках. **
 
-- [Changelog and updates](https://www.antoniolite.com/plantilla-de-yandex-metrica-para-gtm/)
-- [More information about Yandex.Metrica](https://metrica.yandex.com)
-- [Yandex.Metrica documentation](https://yandex.com/support/metrica/index.html)
+- [Список изменений и обновления] (https://www.antoniolite.com/plantilla-de-yandex-metrica-para-gtm/)
+- [Подробнее о Яндекс.Метрике] (https://metrica.yandex.com)
+- [Документация Яндекс.Метрики] (https://yandex.com/support/metrica/index.html)
 
-# Author
+# Автор
 
-Antonio Lite (https://www.antoniolite.com/)
+Антонио Лите (https://www.antoniolite.com/)
 
-# Information
+# Информация
 
-This template allows you configure these methods:
+Этот шаблон позволяет настроить следующие методы:
 
 - init
 - hit
@@ -26,29 +26,29 @@ This template allows you configure these methods:
 - setUserID
 - notBounce
 
-Supports parameter and option configuration for all methods that allow it, including goal cost and currency (_order\_price_ y _currency_)
+Поддерживает настройку параметров и опций для всех методов, которые это позволяют, включая стоимость цели и валюту (_order\_price_ и _currency_)
 
-Allows you to configure the Yandex.Metrica tracking code:
+Позволяет настроить код отслеживания Яндекс.Метрики:
 
-- Do not send data automatically
-- Block page indexing
-- Do not register bounce
-- Use alternative CDN
-- Click map
-- Session recording
-- Register outgoing links
-- Register hash in URLs
-- More accurate bounce
-- Initialization event
-- Iframe recording
-- Trusted domains
-- Additional file extensions
-- Session parameters
-- User parameters
+- Не отправлять данные автоматически
+- Блокировать индексацию страницы
+- Не регистрировать отказов
+- Используйте альтернативный CDN
+- Щелкните карту
+- Запись сеанса
+- Зарегистрировать исходящие ссылки
+- Зарегистрировать хеш в URL
+- Более точный отскок
+- Событие инициализации
+- Запись iframe
+- Надежные домены
+- Дополнительные расширения файлов
+- Параметры сеанса
+- Пользовательские параметры
 
-It also allows activating Yandex.Metrica's native debugging mode.
+Также он позволяет активировать собственный режим отладки Яндекс.Метрики.
 
-It is recommended to read these three articles (in Spanish) to know all the functionalities and characteristics of the template. All the functions that have been added are explained in detail:
+Рекомендуется прочитать эти три статьи (на испанском языке), чтобы узнать обо всех функциях и характеристиках шаблона. Подробно описаны все добавленные функции:
 
 [Plantilla de Yandex.Metrica para GTM](https://www.antoniolite.com/2019/06/plantilla-de-yandex-metrica-para-gtm/)
 
@@ -56,34 +56,8 @@ It is recommended to read these three articles (in Spanish) to know all the func
 
 [Plantilla de Yandex.Metrica para GTM (07.2020)](https://www.antoniolite.com/2020/07/plantilla-de-yandex-metrica-para-gtm-07-2020)
 
-# Updates
+# Обновления
 
 ## 16.09.2020
 
-- Text review
-- English version available
-- Russian version available
-
-## 31.07.2020
-
-- Added goal's price parameter to hit event
-- Added goal's price parameter to reachGoal event
-- Added goal's price parameter to file event
-- Added goal's price parameter to extLink event
-- Re-ordered some field's blocks
-- Fixed minor bugs
-- Code optimization
-
-## 25.09.2019
-
-- Added trustedDomains parameter when initialized
-- Added childIframe parameter when initialized
-- Added userParams parameter when initialized
-- Added triggerEvent parameter when initialized
-- Fixed bug setting User ID
-- Fixed bug adding file extensions
-- Code optimization
-
-## 16.06.2019
-
-- First release
+- Первый выпуск
