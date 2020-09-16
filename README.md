@@ -1,12 +1,12 @@
 # Шаблон Яндекс.Метрики для GTM
 
-Этот специальный шаблон (неофициальный) позволяет реализовать ** Яндекс.Метрику ** с помощью Google Tag Manager.
+Этот специальный шаблон (неофициальный) позволяет реализовать **Яндекс.Метрику** с помощью Google Tag Manager.
 
-** Также доступно на английском и испанском языках. **
+**Также доступно на английском и испанском языках.**
 
-- [Список изменений и обновления] (https://www.antoniolite.com/plantilla-de-yandex-metrica-para-gtm/)
-- [Подробнее о Яндекс.Метрике] (https://metrica.yandex.com)
-- [Документация Яндекс.Метрики] (https://yandex.com/support/metrica/index.html)
+- [Список изменений и обновления](https://www.antoniolite.com/plantilla-de-yandex-metrica-para-gtm/)
+- [Подробнее о Яндекс.Метрике](https://metrica.yandex.com)
+- [Документация Яндекс.Метрики](https://yandex.com/support/metrica/index.html)
 
 # Автор
 
